@@ -3,7 +3,13 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Sekolah Stack — Kuasai Stack-mu, Raih Karirmu",
-  description: "Belajar Full Stack Development dari dasar hingga siap kerja melalui video pembelajaran, project nyata, dan materi yang selalu up to date.",
+  description:
+    "Belajar Full Stack Development dari dasar hingga siap kerja melalui video pembelajaran, project nyata, dan materi yang selalu up to date.",
+  icons: {
+    icon: "/logo.png",
+    shortcut: "/logo.png",
+    apple: "/logo.png",
+  },
 };
 
 export default function RootLayout({

@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">Sekolah Stack</h1>
 
-## Getting Started
+<p align="center">
+  <strong>Online Video Learning IT Course</strong>
+</p>
 
-First, run the development server:
+<p align="center">
+  Learn modern web development from fundamentals to full-stack through structured video courses.
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  <a href="https://sekolah-stack.vercel.app" target="_blank">
+    🌐 Visit Website
+  </a>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ <p align="center">
+  <img src="./public/banner.png" alt="Sekolah Stack Banner" width="100%" />
+</p>
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📚 Learning Path
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- ⚡ JavaScript Fundamental
+- 🔷 TypeScript Fundamental
+- 🎨 UI/UX Design
+- 💻 Front-End Development
+- ⚙️ Back-End Development
+- 🚀 Full-Stack Development
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🌐 Website
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://sekolah-stack.vercel.app
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠 Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Vercel
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🎯 Mission
+
+Making IT education accessible through practical, structured, and beginner-friendly video courses.
+
+---
+
+<p align="center">
+Made with ❤️ by Sekolah Stack
+</p>
